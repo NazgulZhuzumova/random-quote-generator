@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(66, 63, 63);
+}
+
+#container {
+    background-color: rgb(50, 50, 50);
+    border: 5px solid beige;
+    height: 275px;
+    width: 750px;
+    margin: 0 auto;
+    align-items: center;
+}
+
+#btn {
+    margin: 50px auto;
+   
+    height: 50px;
+    width: 250px;
+    font-size: 22px;
+    border-radius: 10px;
+    background-color: rgb(215, 215, 207);
+}
+#output{
+    margin: 22px auto;
+    font-size: 26px;
+    color: white;
+}
